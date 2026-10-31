@@ -5,5 +5,10 @@
     "Utilizamos esta información para prestar el servicio y desarrollar, entrenar y mejorar nuestros sistemas de detección y reconocimiento OCR. Responsable: Walter Ramirez, con domicilio en C.P. 45659, Tlajomulco de Zúñiga, Jalisco, México.",
     "Puedes consultar las opciones para limitar el uso de tus datos y ejercer tus derechos en nuestro aviso de privacidad."
   ],
-  "enlace": "Consultar aviso de privacidad integral"
+  "enlace": "Consultar aviso de privacidad integral",
+  "documentos": {
+    "privacidad": "1.3",
+    "terminos": "1.3",
+    "eliminar-cuenta": "1.3"
+  }
 }
